@@ -1,3 +1,1 @@
-# clicksend
-
-Clicksend notification channel for Laravel
+# ClickSend SMS notifications channel for Laravel 5.3
