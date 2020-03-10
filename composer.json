@@ -1,7 +1,7 @@
 {
-	"name": "kees-tm/clicksend",
+	"name": "estdigital/clicksend",
 	"description": "ClickSend SMS notification channel for Laravel 5.3",
-	"homepage": "https://bitbucket.org/kees-tm/clicksend",
+	"homepage": "https://bitbucket.org/estdigital/clicksend",
 	"license": "MIT",
 	"authors": [
 		{
