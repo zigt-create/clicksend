@@ -1,6 +1,6 @@
 {
 	"name": "zigt/clicksend",
-	"description": "ClickSend SMS notification channel for Laravel 5.3",
+	"description": "ClickSend SMS notification channel for Laravel 9",
 	"homepage": "https://bitbucket.org/zigt/clicksend",
 	"license": "MIT",
 	"authors": [
@@ -23,12 +23,7 @@
 			"NotificationChannels\\Clicksend\\": "src"
 		}
 	},
-	"autoload-dev": {
-	},
-	"scripts": {
-	},
 	"config": {
 		"sort-packages": true
-	},
-	"minimum-stability": "dev"
+	}
 }
