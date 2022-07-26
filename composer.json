@@ -1,7 +1,7 @@
 {
-	"name": "estdigital/clicksend",
+	"name": "zigt/clicksend",
 	"description": "ClickSend SMS notification channel for Laravel 5.3",
-	"homepage": "https://bitbucket.org/estdigital/clicksend",
+	"homepage": "https://bitbucket.org/zigt/clicksend",
 	"license": "MIT",
 	"authors": [
 		{
@@ -12,15 +12,11 @@
 		}
 	],
 	"require": {
-		"php": ">=5.6.4",
-		"illuminate/notifications": "^5.3",
-		"illuminate/support": "^5.1|^5.2|^5.3",
-		"illuminate/queue": "^5.3",
-		"guzzlehttp/guzzle": "^6.3"
-	},
-	"require-dev": {
-		"mockery/mockery": "^0.9.5",
-		"phpunit/phpunit": "4.*"
+		"php": ">=8.0",
+		"illuminate/notifications": "^9.21",
+		"illuminate/support": "^9.21",
+		"illuminate/queue": "^9.21",
+		"guzzlehttp/guzzle": "^7.4"
 	},
 	"autoload": {
 		"psr-4": {
