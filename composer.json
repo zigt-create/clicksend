@@ -1,21 +1,19 @@
 {
 	"name": "zigt/clicksend",
-	"description": "ClickSend SMS notification channel for Laravel 9",
+	"description": "ClickSend SMS notification channel for Laravel 10",
 	"homepage": "https://bitbucket.org/zigt/clicksend",
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "Jacob Nijgh",
-			"email": "jacob@kees-tm.nl",
-			"homepage": "https://www.kees-tm.nl",
+			"name": "ZIGT",
+			"email": "developers@zigt.nl",
+			"homepage": "https://zigt.nl/wat-we-doen/creation-development/technology",
 			"role": "Backend developer"
 		}
 	],
 	"require": {
 		"php": ">=8.0",
-		"illuminate/notifications": "^9.21",
-		"illuminate/support": "^9.21",
-		"illuminate/queue": "^9.21",
+		"illuminate/notifications": "^10.0",
 		"guzzlehttp/guzzle": "^7.4"
 	},
 	"autoload": {
